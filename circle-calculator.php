@@ -7,7 +7,7 @@
         <title>Document</title>
     </head>
     <body>  
-        <form action="index.php" method="post">
+        <form action="circle-calculator.php" method="post">
             <label for="radius">Radius:</label>
             <input type="text" id="radius" name="radius"> <br>
             <input type="submit"> <br>
